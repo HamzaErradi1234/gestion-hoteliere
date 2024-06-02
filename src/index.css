@@ -1,13 +1,252 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
+/* .App {
+  text-align: center;
+} */
+body {
+  margin: 10px;
+
+font-family:monospace;
+background-image: linear-gradient(to left,#CFE5FF,rgb(95, 207, 207));
+
+}
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.custom-font {
+  font-family:monospace;
+  text-align: center;
+color:#071e398a;
+animation-name: phrase;
+animation-duration: 5s;
+animation-iteration-count: infinite;
+}
+@keyframes  phrase{
+  0%{
+     color: 7AA2E3;
+  }
+  30%{
+    color:#2fcf0f;
+  }
+  50%{
+    color:#12a6d3;
+  }
+  80%{
+    color:#dac61a
+  }
+  100%{
+   color: #C6EBC5;
+  }
+}
+.font-roboto{
+  font-family:monospace;
+}
+.menu{
+  font-family: monospace
+}
+.p1{
+  size: 10px;
+}
+.wifi{
+  margin-top:100px;
+}
+.span1{
+  margin-left: 16px; 
+  
+}
+.div1{
+  width:100%;
+  height:100%;
+  background-color: rgba(180, 208, 232, 0.694);
+  
+}
+.footer1{
+  margin-left: 100px;
+  
+}
+.div3{
+  margin-left: 30px;
+}
+.span2{
+   margin-left: 6px;
+   
+}
+#u1{
+  color:rgb(190, 132, 44);
+
+}
+.div4{
+  margin-top:10px;
+}
+#service{
+  margin-left: 13px;
+}
+.span4{
+  margin-left: 8px;
+}
+.span5{
+  margin-left: 8px;
+  
+}
+.span6{
+  margin-left: 8px;
+  
+}
+.span7{
+  margin-left: 8px;
+}
+.divE{
+  margin-top:10px;
+}
+#heure{
+  color:rgb(190, 132, 44);
+  margin-left: 5px;
+}
+.div5{
+ 
+  margin-left: 30px;
+}
+#piscine{
+  margin-left: 13px;
+ 
+}
+/**/
+.div6{
+  margin-left:30px;
+}
+.div7{
+  margin-top:10px;
+  
+}
+.div8{
+  margin-left:20px;
+}
+.div11{
+  margin-left:600px;
+  text-decoration: underline;
+}
+.divP{
+  margin-left:30px;
+}
+.div8{
+margin-left:30px;
+}
+.sp1{
+  margin-left:10px;
+}
+
+.card-margin {
+  margin-top: 20px; 
+  margin-bottom: 20px; 
+}
+.coordonne {
+margin-left:400px;
+margin-top:80px;
+color: rgba(25, 165, 165, 0.495);
+}
+.coordonne{
+  color:black;
+  text-align: center;
+}
+.Nav-Link{
+  font-weight: bold;
+  color:#CFE5FF;
+  text-decoration: none;
+}
+.Nav-Link:hover {
+  color: #F8F6E3
+}
+.bgcolor{
+  margin-bottom: 100px;
+}
+.connection{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-weight: bold;
+ color:rgba(186, 51, 51, 0.922);
+}
+.nom{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ color:rgba(107, 22, 22, 0.395);
+}
+.btnC{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.logo1{
+  border-radius: 50%;
+}
+.btnAC{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.reserver{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-weight: bold;
+  color:rgba(255, 239, 239, 0.922);
+}
+
+.inscr{
+  font-family:monospace;
+animation-name: inscription;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+}
+@keyframes  inscription{
+  0%{
+     color: 7AA2E3;
+  }
+  30%{
+    color:#6AD4DD;
+  }
+  100%{
+   color: #C6EBC5;
+  }
+}
+.reserver{
+  font-family:monospace;
+  animation-name: inscription;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  }
+  @keyframes  inscription{
+    0%{
+       color: #81a0d3;
+    }
+    30%{
+      color:#20208b;
+    }
+    70%{
+      color:#CFE5FF;
+    }
+    100%{
+     color: #1fb31a;
+    }
+}
+.btnRes{
+  margin-top: 10px;
+}
+.listeR{
+  margin-top: 10px;
+}
+.phrase1{
+  text-align: center;
+}
+.detailButton{
+  height: 40px;
+}
+.profile{
+  height:38px;
+}
+.lreservation{
+  text-decoration: none;
+}
+.detailImages{
+  min-height: 500px;
+}
+.center-toast {
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.btnEn{
+  margin-top:10px;
 }
