@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/gestion-hoteliere/static/css/main.de4b1c20.css",
+    "main.js": "/gestion-hoteliere/static/js/main.5ba23f70.js",
+    "static/js/453.ae3772ab.chunk.js": "/gestion-hoteliere/static/js/453.ae3772ab.chunk.js",
+    "static/media/chambre5.png": "/gestion-hoteliere/static/media/chambre5.4a2a605d3946c87df5a3.png",
+    "static/media/chambre4.png": "/gestion-hoteliere/static/media/chambre4.2c3cbd3f8c17f513d4a1.png",
+    "static/media/chambre2.png": "/gestion-hoteliere/static/media/chambre2.0c5c97eaa89b4022a480.png",
+    "static/media/chambre3.png": "/gestion-hoteliere/static/media/chambre3.87253c4619270addd6f2.png",
+    "static/media/chambre9.png": "/gestion-hoteliere/static/media/chambre9.811e392957ceae277340.png",
+    "static/media/chambre8.png": "/gestion-hoteliere/static/media/chambre8.01462481699b3b3750ca.png",
+    "static/media/chambre7.png": "/gestion-hoteliere/static/media/chambre7.1a06e2f133888ab86ce4.png",
+    "static/media/chambre10.png": "/gestion-hoteliere/static/media/chambre10.84909e170a380536419c.png",
+    "static/media/chambre11.png": "/gestion-hoteliere/static/media/chambre11.ecabd845b7622dbb7e7b.png",
+    "static/media/chambre1.png": "/gestion-hoteliere/static/media/chambre1.5f6c0c4739a12f62d8b4.png",
+    "static/media/chambre6.png": "/gestion-hoteliere/static/media/chambre6.ac7454a6759ca7f23bb4.png",
+    "static/media/chambre12.png": "/gestion-hoteliere/static/media/chambre12.1915e975e55d975fd6fe.png",
+    "static/media/img17.png": "/gestion-hoteliere/static/media/img17.905aa703a2d8633b6467.png",
+    "static/media/img21.png": "/gestion-hoteliere/static/media/img21.a0f9803956ce32bb64a6.png",
+    "static/media/img1.png": "/gestion-hoteliere/static/media/img1.150280a806cfda9e283b.png",
+    "static/media/img20.png": "/gestion-hoteliere/static/media/img20.7877472edf3adf73910c.png",
+    "static/media/img2.png": "/gestion-hoteliere/static/media/img2.dc9a93d4a26bd0b4110c.png",
+    "static/media/logo1.png": "/gestion-hoteliere/static/media/logo1.c8e18332eaa012ee88bb.png",
+    "static/media/img14.png": "/gestion-hoteliere/static/media/img14.619536ea2b2f2ce2c547.png",
+    "static/media/img15.png": "/gestion-hoteliere/static/media/img15.938164cb82442e1d0d94.png",
+    "static/media/img19.png": "/gestion-hoteliere/static/media/img19.938164cb82442e1d0d94.png",
+    "static/media/img16.png": "/gestion-hoteliere/static/media/img16.db1ca86e315ace1fe985.png",
+    "static/media/bain3.png": "/gestion-hoteliere/static/media/bain3.2f656bf7ee1b68c93aaa.png",
+    "static/media/img3.png": "/gestion-hoteliere/static/media/img3.b2452ffc33b9958fd747.png",
+    "static/media/bain2.png": "/gestion-hoteliere/static/media/bain2.b2c7b1a3984b22b3bc26.png",
+    "static/media/bain.png": "/gestion-hoteliere/static/media/bain.b3ad90d5d4fbe7a4999f.png",
+    "index.html": "/gestion-hoteliere/index.html",
+    "main.de4b1c20.css.map": "/gestion-hoteliere/static/css/main.de4b1c20.css.map",
+    "main.5ba23f70.js.map": "/gestion-hoteliere/static/js/main.5ba23f70.js.map",
+    "453.ae3772ab.chunk.js.map": "/gestion-hoteliere/static/js/453.ae3772ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de4b1c20.css",
+    "static/js/main.5ba23f70.js"
+  ]
+}
